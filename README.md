@@ -1,6 +1,6 @@
 # SINDy-rs
 
-SINDy - Sparse Identification of Nonlinear Dynamics ([Brunton, Kutz, Proctor 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4839439/)), is a method for discovering ODE describing desired dynamical system. It aims to find the sparse solution (least possible number of equations, see [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)). We can use Sparce matrix algorithms and parallelization to speed up computation.
+SINDy - Sparse Identification of Nonlinear Dynamics ([Brunton, Kutz, Proctor 2016](https://pmc.ncbi.nlm.nih.gov/articles/PMC4839439/)), is a method for discovering ODE describing desired dynamical system. It aims to find the sparse solution (least possible number of terms in the equation, see [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor)). We can use Sparce matrix algorithms and parallelization to speed up computation.
 
 <img width="850" height="338" alt="image" src="https://github.com/user-attachments/assets/76e9b9e9-6f4b-42ae-9ec7-205dd74be1fc" />
 
