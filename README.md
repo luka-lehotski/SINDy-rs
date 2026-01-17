@@ -6,4 +6,4 @@ SINDy - Sparse Identification of Nonlinear Dynamics ([Brunton, Kutz, Proctor 201
 
 What i specifically like about this method is that is interpretable, compared to PINNs (which aims to solve some of the same problems). 
 
-This method is widely applicable, and powerful tool for identification and prediction in systems. My goal in this project is to build up a library adjectent to [original](https://github.com/dynamicslab/pysindy) PySINDy in RUST, since it enables memory safety, speed, and verification, which is important when dealing with matrix multiplications, especiallly in online identification problems often used in Control Systems.
+This method is widely applicable, and powerful tool for identification and prediction in systems. My goal in this project is to build up a library adjectent to [original](https://github.com/dynamicslab/pysindy) PySINDy in RUST, since it enables memory safety and speed, which is important when dealing with matrix multiplications and numerical integration, especiallly in online identification problems often used in Control Systems.
