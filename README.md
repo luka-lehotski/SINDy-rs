@@ -1,1 +1,1 @@
-![SINDy](https://www.researchgate.net/publication/347692023/figure/fig3/AS:974707545341954@1609399796608/Schematic-of-the-sparse-identification-of-nonlinear-dynamics-SINDy-algorithm-25-as.png)
+<img width="800" height="664" alt="ghqvbzy2uxgpbku9tdtu7rfbyq8b" src="https://github.com/user-attachments/assets/7af444d6-fcae-40be-bfd3-c0633fffd724" />
