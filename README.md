@@ -1,1 +1,2 @@
 <img width="800" height="664" alt="ghqvbzy2uxgpbku9tdtu7rfbyq8b" src="https://github.com/user-attachments/assets/7af444d6-fcae-40be-bfd3-c0633fffd724" />
+The goal of this project is to explore System Identification and mathematical modelling in different frameworks. My goal is to implement SINDy (Sparse Identification of Nonlinear Dynamics (Brunton et al)) in Julia and Rust, and to explore the benefits of each paradigm. 
